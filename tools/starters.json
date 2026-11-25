@@ -1,0 +1,311 @@
+{
+  "starters": [
+    {
+      "name": "blank",
+      "id": "ionic1-official-blank",
+      "type": "ionic1",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "ionic1-official-sidemenu",
+      "type": "ionic1",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "ionic1-official-tabs",
+      "type": "ionic1",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "maps",
+      "id": "ionic1-official-maps",
+      "type": "ionic1",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "ionic-angular-official-blank",
+      "type": "ionic-angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "ionic-angular-official-sidemenu",
+      "type": "ionic-angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tutorial",
+      "id": "ionic-angular-official-tutorial",
+      "type": "ionic-angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "ionic-angular-official-tabs",
+      "type": "ionic-angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "aws",
+      "id": "ionic-angular-official-aws",
+      "type": "ionic-angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "super",
+      "id": "ionic-angular-official-super",
+      "type": "ionic-angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "ionic-team/example",
+      "id": "ionic-angular-community-ionic-team-example",
+      "type": "ionic-angular",
+      "ref": "5964277615322dd74d8d84528ce5d01b07acbed8",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "oktadeveloper/jhipster",
+      "id": "ionic-angular-community-oktadeveloper-jhipster",
+      "type": "ionic-angular",
+      "ref": "fc4e95672c34e8462f4deffa543e4702a890b97f",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "danielsogl/super",
+      "id": "ionic-angular-community-danielsogl-super",
+      "type": "ionic-angular",
+      "ref": "9b3d060bca61d513450c330de84cb9b468cf7387",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "angular-official-blank",
+      "type": "angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "angular-official-sidemenu",
+      "type": "angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "ionic-team/portals",
+      "id": "angular-community-ionic-team-portals",
+      "type": "angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "list",
+      "id": "angular-official-list",
+      "type": "angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "angular-official-tabs",
+      "type": "angular",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "oktadeveloper/jhipster",
+      "id": "angular-community-oktadeveloper-jhipster",
+      "type": "angular",
+      "ref": "5615fe544e9f271a77aeb5aae787976a96a47ff6",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "angular-standalone-official-blank",
+      "type": "angular-standalone",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "angular-standalone-official-sidemenu",
+      "type": "angular-standalone",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "angular-standalone-official-tabs",
+      "type": "angular-standalone",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "list",
+      "id": "angular-standalone-official-list",
+      "type": "angular-standalone",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "react-official-blank",
+      "type": "react",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "react-official-tabs",
+      "type": "react",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "react-official-sidemenu",
+      "type": "react",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "list",
+      "id": "react-official-list",
+      "type": "react",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "ionic-team/portals",
+      "id": "react-community-ionic-team-portals",
+      "type": "react",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "vue-official-sidemenu",
+      "type": "vue",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "list",
+      "id": "vue-official-list",
+      "type": "vue",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "vue-official-blank",
+      "type": "vue",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "vue-official-tabs",
+      "type": "vue",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "ionic-team/portals",
+      "id": "vue-community-ionic-team-portals",
+      "type": "vue",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "react-vite-official-sidemenu",
+      "type": "react-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "list",
+      "id": "react-vite-official-list",
+      "type": "react-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "react-vite-official-tabs",
+      "type": "react-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "react-vite-official-blank",
+      "type": "react-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "ionic-team/portals",
+      "id": "react-vite-community-ionic-team-portals",
+      "type": "react-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "blank",
+      "id": "vue-vite-official-blank",
+      "type": "vue-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "list",
+      "id": "vue-vite-official-list",
+      "type": "vue-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "sidemenu",
+      "id": "vue-vite-official-sidemenu",
+      "type": "vue-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "tabs",
+      "id": "vue-vite-official-tabs",
+      "type": "vue-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    },
+    {
+      "name": "ionic-team/portals",
+      "id": "vue-vite-community-ionic-team-portals",
+      "type": "vue-vite",
+      "ref": "main",
+      "sha1": "c6e11c841e9ead4de4348b2911a5bd9b96b1a89f"
+    }
+  ],
+  "integrations": [
+    {
+      "name": "cordova",
+      "id": "integration-cordova"
+    }
+  ]
+}
